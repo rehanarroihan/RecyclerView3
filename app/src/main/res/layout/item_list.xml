@@ -41,7 +41,6 @@
             android:maxLines="1"
             android:padding="16dp"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-            android:textColor="@android:color/white"
             tools:text="Deskripsi" />
 
         <Button
